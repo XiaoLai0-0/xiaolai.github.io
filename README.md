@@ -5,4 +5,4 @@
 不断学习，热爱技术
 
 
- <img align="right" alt="GIF" src="./images/code.gif" width="500" height="150%" />
+ <img align="right" alt="GIF" src="./code.gif" width="500" height="150%" />
